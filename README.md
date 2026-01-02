@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=36&duration=3500&pause=2500&color=B2C5FF&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mandar)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=36&duration=3500&pause=3500&color=B2C5FF&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mandar)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
