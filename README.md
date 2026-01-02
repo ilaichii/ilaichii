@@ -6,7 +6,7 @@
 
 ![typewriter (1)](https://github.com/user-attachments/assets/ec29a2c4-e5fc-4472-8190-056c4e364964)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=2500&color=146E6E&width=435&lines=Hey+there,+I'm+Name)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=2500&color=146E6E&width=435&lines=Hey+there,+I'm+Name)
 
 Here are some ideas to get you started:
 
