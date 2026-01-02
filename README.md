@@ -1,13 +1,4 @@
-## Hi there 👋
-
-**ilaichii/ilaichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![typewriter](https://github.com/user-attachments/assets/44fb6735-cc23-4a3d-b81d-31a41da22ca2)
-
-![typewriter (1)](https://github.com/user-attachments/assets/ec29a2c4-e5fc-4472-8190-056c4e364964)
-
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=2500&color=146E6E&width=435&lines=Hey+there,+I'm+Name)
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=4000&pause=2500&color=146E6E&width=435&lines=Hey+there%2C+I'm+Mandar)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
