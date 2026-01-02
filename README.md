@@ -4,6 +4,8 @@
 
 ![typewriter](https://github.com/user-attachments/assets/44fb6735-cc23-4a3d-b81d-31a41da22ca2)
 
+![typewriter (1)](https://github.com/user-attachments/assets/ec29a2c4-e5fc-4472-8190-056c4e364964)
+
 
 Here are some ideas to get you started:
 
