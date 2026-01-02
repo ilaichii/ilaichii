@@ -2,6 +2,9 @@
 
 **ilaichii/ilaichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![typewriter](https://github.com/user-attachments/assets/44fb6735-cc23-4a3d-b81d-31a41da22ca2)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
